@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GrayScaleAndNegativeConverter
+comment0.text=\r\n\ Write\ a\ description\ of\ GrayScaleConverter\ here.\r\n\ \r\n\ @author\ Himanshu\ Singh\r\n\ @version\ 08-08-2020\r\n
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ makeGray(edu.duke.ImageResource)
+comment2.params=inImage
+comment2.target=edu.duke.ImageResource\ makeNegative(edu.duke.ImageResource)
+comment3.params=
+comment3.target=void\ selectAndConvertInGray()
+comment4.params=
+comment4.target=void\ selectAndConvertInNegative()
+numComments=5
